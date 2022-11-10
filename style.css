@@ -1033,10 +1033,6 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-
-    .bloc-sm {
-        padding : unset;
-    }
 }
 
 @media (max-width: 767px) {
